@@ -3,12 +3,12 @@ Question for you. What’s better than octopus recipe? Answer for you. Eight rec
 
 My grandma gave me this recipe, before she died in a horrible way.
 ## install
-npm install -g exp //to install expo cli globally
+'npm install -g exp' to install expo cli globally
 
-cd octorecipe-master
+'cd octorecipe-master'
 
-npm install
+'npm install'
 
-exp start
+'exp start' or open in expo XDE
 
 
