@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "Octorecipes",
+    "description": "Question for you. What's better than octopus recipe? Answer for you. Eight recipes for octopus.",
+    "slug": "Octorecipes",
+    "privacy": "public",
+    "sdkVersion": "28.0.0",
+    "platforms": ["ios", "android"],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/logo_android_octorecipe.png",
+    "splash": {
+      "image": "./assets/logo_android_octorecipe.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": false,
+      "icon":"./assets/logo_ios_octorecipe.png",
+      "bundleIdentifier": "com.Octorecipes.app",
+      "buildNumber":"0.0.1",
+    },
+    "android": {
+      "package": "com.Octorecipes.app",
+      "versionCode":1,
+      "icon":"./assets/logo_android_octorecipe.png"
+
+    }
+  }
+}
