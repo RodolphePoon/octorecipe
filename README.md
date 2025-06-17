@@ -1,3 +1,6 @@
+
+<img src="/assets/logo_ios_octorecipe.png" width="200">
+
 # octorecipe
 Question for you. What’s better than octopus recipe? Answer for you. Eight recipes for octopus.
 
